@@ -9,11 +9,11 @@
 This is Lesi Li 😊
 
 <ul>
-<li>🐾 I am currently major in informatics in University of Washington, focus on the track of Human Center Interaction.</li>
+<li>🐾 I am majoring in informatics at the University of Washington, focusing on HCI.</li>
 <li>✨ I am interesting in UI/UX and PM.</li>
 <li>🎓 I am graduate in June 2023.</li>
-<li>⚙️ I have skill on Figma, HTML, CSS, JaveScript, R, SQL.</li>
-<li>🌏 I can speak English, Cantonese, and Manderain.</li>
+<li>⚙️ I have skills in Figma, HTML, CSS, Java, JaveScript, R, SQL, and Swift.</li>
+<li>🌏 I can speak English, Cantonese, and Mandarin.</li>
 </ul>
 
 ### **Contact me**
